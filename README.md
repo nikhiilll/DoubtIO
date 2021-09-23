@@ -22,6 +22,7 @@ https://doubtio.netlify.app/
 - Global search functionality to search for relevant previously asked doubts.
 - Profile visit functionality to check any user's profile, doubts asked by the user and other information.
 - Users can edit their own profile information like name, profile picture and description.
+- Fully responsive across all devices
 ## Tech Stack
 
 **Client:** React, TailwindCSS
