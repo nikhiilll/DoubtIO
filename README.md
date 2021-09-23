@@ -47,6 +47,11 @@ https://doubtio.netlify.app/
 
 ![App Screenshot](https://nikhilprojects.s3.us-west-1.amazonaws.com/doubtio/screenshots/doubtio_profileview.png)
 
+
+![App Screenshot](https://nikhilprojects.s3.us-west-1.amazonaws.com/doubtio/screenshots/doubtio_signup.png)
+
+
+
 ## Run Locally
 
 Clone the project
