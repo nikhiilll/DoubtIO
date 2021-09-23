@@ -1,9 +1,7 @@
 
-# Doubt.IO
+# Doubt.io
 
-Doubt.IO is a platform for users to ask their doubts pertaining to any topic and get help from other users on the platform.
-Currently the doubts asked on the platform are related to programming as the initial users are developers themselves.
-
+Doubt.io is a platform for users to ask their doubts pertaining to any topic and get help from other users on the platform. The users can ask doubts, help others and interact.
 
 
 ![Logo](https://nikhilprojects.s3.us-west-1.amazonaws.com/doubtio/logo.png)
